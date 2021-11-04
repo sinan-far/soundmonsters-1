@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: lightyellow
+}
+#container {
+    background-color: lightblue;
+    height: 70%;
+    width: 100%;
+    font-family: 'Orbitron', sans-serif;
+    height: 650px ;
+}
+#img1,#img2,#img3,#img4{
+    height: 250px;
+    width: 300px;
+}
+#logo {
+    font-family: 'Inconsolata', monospace;
+font-family: 'Orbitron', sans-serif;
+}
+#footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(80, 200, 120);
+    line-height: 3;
+    text-shadow: 5px 5px 5px lightsteelblue;
+}
+ p {
+     letter-spacing: 2px;
+     font-weight: bold;
+ }
